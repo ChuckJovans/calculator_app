@@ -1,16 +1,18 @@
 # calculator_app
+Simple Calculator app performing basic  arithmetic, which includes;
+- [ ] addition 
+- [ ] subtraction
+- [ ] multiplication
+ - [ ] division
+ - [ ] getting the reminder
+ 
+# Sample of the the App and Code
+![screen code](https://user-images.githubusercontent.com/90473880/202506812-d219e69c-4fff-48fb-87c0-21bbabc5255f.jpg)
 
-A new Flutter project.
+# ScreenShot of the App
+![screen1](https://user-images.githubusercontent.com/90473880/202506870-8c4143ca-56a4-4390-ab31-e82cbc3286c2.jpg)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
