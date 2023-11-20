@@ -53,7 +53,7 @@ class _CalculatorState extends State<Calculator> {
 
           children: [
 
-            //the row for the User input
+            //the row for the User input only
             Row(
               mainAxisAlignment: MainAxisAlignment.end,
               children: [
@@ -198,3 +198,4 @@ class _CalculatorState extends State<Calculator> {
     });
   }
 }
+//end of app
